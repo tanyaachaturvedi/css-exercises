@@ -1,0 +1,19 @@
+.class1{
+    background:rgb(255, 192, 203);
+    font-family: verdana,"DejaVu Sans",sans-serif
+}
+
+#second-id{
+    color:#0000ff;
+    font-size:24px
+}
+
+.class2{
+    font-size:24px
+}
+
+#num4{
+    background:hsl(120, 73%, 75%);
+    font-size:24px;
+    font-weight: bold;
+}
